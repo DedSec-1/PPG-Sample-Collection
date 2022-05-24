@@ -1,0 +1,20 @@
+{
+  "name": "ppg-vitals",
+  "version": "1.0.0",
+  "description": "**Vital signs monitor based on PPG signal captured by smartphone camera**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markolalovic/ppg-vitals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markolalovic/ppg-vitals/issues"
+  },
+  "homepage": "https://github.com/markolalovic/ppg-vitals#readme"
+}
